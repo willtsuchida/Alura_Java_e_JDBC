@@ -1,4 +1,4 @@
-package loja.virtual.repository;
+package modelo;
 
 import java.sql.Statement;
 import java.sql.ResultSet;

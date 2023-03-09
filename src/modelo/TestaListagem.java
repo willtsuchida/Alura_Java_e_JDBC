@@ -1,4 +1,4 @@
-package loja.virtual.repository;
+package modelo;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -26,7 +26,6 @@ public class TestaListagem {
             System.out.println(desc);
             System.out.println("----------");
         }
-
         con.close();
     }
 }
